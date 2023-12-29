@@ -1,0 +1,11 @@
+{
+	"Windows10": {
+		"AvailableBuild": 19045,
+		"DisplayVersion": "22H2",
+		"ReleaseID": 2009
+	},
+	"Windows11": {
+		"AvailableBuild": 22631,
+		"DisplayVersion": "23H2"
+	}
+}
